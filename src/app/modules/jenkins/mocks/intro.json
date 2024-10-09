@@ -1,0 +1,40 @@
+{
+  "headerData": [
+    {
+      "name": "header1",
+      "sticky": true,
+      "width": "10%",
+      "contentType": "text/plain"
+    },
+    {
+      "name": "header2",
+      "sticky": false,
+      "width": "45%",
+      "contentType": "text/plain"
+    },
+    {
+      "name": "header3",
+      "sticky": false,
+      "width": "45%",
+      "contentType": "text/plain"
+    }
+
+  ],
+  "data": [
+    {
+        "header1": "value1",
+        "header2": "value2",
+        "header3": "value3"
+        },
+        {
+        "header1": "value4",
+        "header2": "value5",
+        "header3": "value6"
+        },
+        {
+        "header1": "value7",
+        "header2": "value8",
+        "header3": "value9"
+    }
+  ]
+}

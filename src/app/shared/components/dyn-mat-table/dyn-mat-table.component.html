@@ -1,0 +1,17 @@
+<p>dyn-mat-table works!</p>
+
+<div>
+@if (data != null){
+    <mat-table [dataSource]="data">
+        @for(i of  headerData; track  i)
+        {
+            <ng-container matColumnDef="{{i.name}}">
+                <mat-header-cell *matHeaderCellDef> {{i.name}} </mat-header-cell>
+                <mat-cell *matCellDef="let element"> {{element[i.name]}} </mat-cell>
+            </ng-container>
+        }
+        <mat-header-row *matHeaderRowDef="columns"></mat-header-row>
+        <mat-row *matRowDef="let row; columns: columns;"></mat-row>
+    </mat-table>
+}
+</div>

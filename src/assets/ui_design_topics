@@ -1,0 +1,144 @@
+
+Networking:
+     - How web works?
+     - Communications protocols?
+     - Rest API's
+         - Overview
+         - Http Req/Res with Headers
+         - Http Methods
+         - Status Codes
+         - Best Practices & Examples
+
+     GraphQL:
+         - Overview
+         - Query Language
+         - Schema
+         - Resolvers
+         - Best Practices & Examples
+
+     GRPC:
+         - Overview
+         - Protocol Buffers
+         - Service Definition
+         - RPSC Methods
+         - IDC(Interface Definition Language)
+         - Code Generation
+         - Best Practices & Examples
+
+Communication Techniques:
+     - Pub/Sub
+     - WebSockets
+     - Short Polling
+     - Long Polling
+     - Server-Sent Events
+     - WebHooks
+     - Pros & Cons of each technique
+     - Best Practices & Examples
+
+Security:
+
+        - Cross-Site Scripting (XSS)
+        - Cross-Site Request Forgery (CSRF)
+        - Iframe Protection
+        - Authentication
+        - Authorization
+        - Encryption
+        - Hashing
+        - Client-side Headers
+        - Security Headers
+        - Client-side security
+        - Secure Communication
+        - Dependency Security
+        - Compliance & Regulations
+        - Input Validation & Sanitation
+        - Server-Side Request Forgery (SSRF)
+        - Server-Side JavaScript Injection
+        - Feature Policy | Permissions Policy
+        - Subresource Integrity
+        - Cross-Origin Resource Sharing (CORS)
+        - Best Practices & Examples
+
+Performance:
+        - Asset Optimization(Images, Fonts, CSS, JS)
+        - Network Optimization
+        - Build Optimization
+        - JavaScript Optimization
+        - Performance Monitoring
+        - Performance Tools
+        - Rendering Pattern
+        - Lazy Loading
+        - Code Splitting
+        - Prefetching
+        - Preloading
+        - Service Workers
+        - Best Practices & Examples
+
+Database & Caching
+        - Local Storage
+        - Session Storage
+        - Cookies & Tokens
+        - IndexedDB
+        - Normalization & Denormalization
+        - ACID Properties
+        - Http Caching
+        - Service working cache
+        - API Caching
+        - State Management
+
+Testing:
+        - Unit Testing
+        - Integration Testing
+        - End-to-End Testing
+        - Performance Testing
+        - Security Testing
+        - Accessibility Testing
+        - A/B Testing
+        - Test Drive Development Overview
+        - Testing Tools & Libraries
+        - Best Practices & Examples
+
+Low Level Design(LLD):
+        - Design Patterns
+        - SOLID Principles
+        - State Management
+        - Routing
+        - LLD : Infinity Scrool
+        - LLD : Nested Comments
+        - LLD : Pagination
+        - LLD : Image Carousel
+        - LLD : Live Streaming Chat UI
+        - LLD : AutoComplete Search
+
+
+High Level Design(HLD):
+        - Socia Media Feed(Instagram, Twitter, Facebook)
+        - E-Commerce Platform(Amazon, Flipkart)
+        - Video Streaming Platform(Netflix, Youtube)
+        - Food Delivery Platform(Zomato, Swiggy)
+        - Ride Sharing Platform(Uber, Ola)
+        - Online Learning Platform(Udemy, Coursera)
+        - Chat Application(Whatsapp, Telegram)
+        - Email Service(Gmail, Outlook)
+        - Google Analytics
+        - Google Docs
+        - Google Sheets
+        - Music Streaming Platform(Spotify, Gaana)
+        - Online Gaming Platform(Pubg, FreeFire)
+
+Logging & Monitoring:
+        Telemetry:
+            - Error Logging
+            - Feature Usage
+            - User Tracking
+            - Working with tools like Google Analytics, Mixpanel, Amplitude, Segment, etc.
+        Alerting:
+             - Performance Monitoring
+             - Infra Capacity
+             - Error Threshold
+             - API Failure
+        Fixing:
+             - Prioritizing Issues
+             - Debugging
+             - Mitigation
+             - Prevention
+
